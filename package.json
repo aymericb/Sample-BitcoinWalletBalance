@@ -1,0 +1,22 @@
+{
+  "name": "Sample-BitcoinWalletCompute",
+  "version": "0.1.0",
+  "description": "Sample code demonstrating how to compute Bitcoin wallet balance with node.js and blockchain.info APIs",
+  "main": "wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bitcoin",
+    "Wallet",
+    "Balance",
+    "blockchain.info"
+  ],
+  "author": "Aymeric Barthe",
+  "license": "Public Domain",
+  "devDependencies": {
+    "bs58": "^1.2.0",
+    "fibers": "~1.0.1",
+    "underscore": "~1.6.0"
+  }
+}
